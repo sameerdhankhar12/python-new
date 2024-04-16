@@ -28,3 +28,5 @@ How to Run:
 4. Run the script by hitting Enter.
 
 Enjoy the game and have fun.
+
+contributor: sameer(student id-20231386)
