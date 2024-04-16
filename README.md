@@ -1,6 +1,6 @@
 Tic-Tac-Toe Game
 
-This is a Python implementation of the Tic-Tac-Toe game. You can play with another person on the same computer.
+This is a Python execution of the Tic-Tac-Toe game. You can play with another person on the same computer.
 
 How to Play:
 1. Run the script in visual studio.
